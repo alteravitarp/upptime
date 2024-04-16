@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1018,
-    "timeDay": 1018,
-    "timeWeek": 1018,
-    "timeMonth": 1018,
-    "timeYear": 1018,
+    "time": 970,
+    "timeDay": 970,
+    "timeWeek": 970,
+    "timeMonth": 970,
+    "timeYear": 970,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 911,
-    "timeWeek": 911,
-    "timeMonth": 911,
-    "timeYear": 911,
+    "time": 888,
+    "timeDay": 888,
+    "timeWeek": 888,
+    "timeMonth": 888,
+    "timeYear": 888,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1219,
-    "timeDay": 1219,
-    "timeWeek": 1219,
-    "timeMonth": 1219,
-    "timeYear": 1219,
+    "time": 1029,
+    "timeDay": 1029,
+    "timeWeek": 1029,
+    "timeMonth": 1029,
+    "timeYear": 1029,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Teamspeak 3 (SaltyChat)",
-    "url": "ts3.alteravitarp.de",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "teamspeak-3-salty-chat",
-    "status": "down",
-    "uptime": "9.23%",
-    "uptimeDay": "9.23%",
-    "uptimeWeek": "9.23%",
-    "uptimeMonth": "9.23%",
-    "uptimeYear": "9.23%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-16": 7
-    }
   }
 ]
