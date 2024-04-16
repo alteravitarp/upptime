@@ -9,12 +9,10 @@ sites:
     url: https://txadmin.alteravitarp.de
   - name: CopNET
     url: https://gov.alteravitarp.de
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Teamspeak 3 (SaltyChat)
     url: ts3.alteravitarp.de
     port: 9987
-    check: "tcp-ping"
+    check: "tcp"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
