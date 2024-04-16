@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1282,
-    "timeDay": 1282,
-    "timeWeek": 1282,
-    "timeMonth": 1282,
-    "timeYear": 1282,
+    "time": 1018,
+    "timeDay": 1018,
+    "timeWeek": 1018,
+    "timeMonth": 1018,
+    "timeYear": 1018,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 974,
-    "timeWeek": 974,
-    "timeMonth": 974,
-    "timeYear": 974,
+    "time": 911,
+    "timeDay": 911,
+    "timeWeek": 911,
+    "timeMonth": 911,
+    "timeYear": 911,
     "dailyMinutesDown": {}
   },
   {
@@ -46,29 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1675,
-    "timeDay": 1675,
-    "timeWeek": 1675,
-    "timeMonth": 1675,
-    "timeYear": 1675,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1219,
+    "timeDay": 1219,
+    "timeWeek": 1219,
+    "timeMonth": 1219,
+    "timeYear": 1219,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teamspeak-3-salty-chat",
     "status": "down",
-    "uptime": "47.02%",
-    "uptimeDay": "47.02%",
-    "uptimeWeek": "47.02%",
-    "uptimeMonth": "47.02%",
-    "uptimeYear": "47.02%",
+    "uptime": "9.23%",
+    "uptimeDay": "9.23%",
+    "uptimeWeek": "9.23%",
+    "uptimeMonth": "9.23%",
+    "uptimeYear": "9.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-16": 1
+      "2024-04-16": 7
     }
   }
 ]
