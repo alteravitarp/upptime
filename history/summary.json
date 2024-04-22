@@ -40,19 +40,19 @@
     "url": "https://gov.alteravitarp.de",
     "icon": "https://icons.duckduckgo.com/ip3/gov.alteravitarp.de.ico",
     "slug": "cop-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 894,
-    "timeDay": 668,
-    "timeWeek": 894,
-    "timeMonth": 894,
-    "timeYear": 894,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 916,
+    "timeDay": 830,
+    "timeWeek": 916,
+    "timeMonth": 916,
+    "timeYear": 916,
     "dailyMinutesDown": {
-      "2024-04-22": 0
+      "2024-04-22": 17
     }
   },
   {
