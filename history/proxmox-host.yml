@@ -1,7 +1,7 @@
 url: https://$HOST_PVE:8006
 status: up
 code: 200
-responseTime: 508
-lastUpdated: 2024-05-02T23:19:18.380Z
+responseTime: 589
+lastUpdated: 2024-05-03T23:17:20.799Z
 startTime: 2024-04-16T10:18:34.254Z
 generator: Upptime <https://github.com/upptime/upptime>
