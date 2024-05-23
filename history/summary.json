@@ -4,9 +4,9 @@
     "url": "https://git.r3ktm8.de",
     "icon": "https://icons.duckduckgo.com/ip3/git.r3ktm8.de.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 872,
     "timeMonth": 1180,
     "timeYear": 1121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   },
   {
     "name": "TxAdmin (Live)",
@@ -69,7 +71,7 @@
     "time": 590,
     "timeDay": 502,
     "timeWeek": 522,
-    "timeMonth": 573,
+    "timeMonth": 558,
     "timeYear": 590,
     "dailyMinutesDown": {}
   }
