@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1122,
-    "timeDay": 1030,
-    "timeWeek": 1077,
-    "timeMonth": 1139,
-    "timeYear": 1122,
+    "time": 1117,
+    "timeDay": 739,
+    "timeWeek": 1058,
+    "timeMonth": 1129,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2024-05-23": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1057,
-    "timeDay": 1175,
-    "timeWeek": 1101,
-    "timeMonth": 1307,
-    "timeYear": 1057,
+    "time": 1051,
+    "timeDay": 611,
+    "timeWeek": 1014,
+    "timeMonth": 946,
+    "timeYear": 1051,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 791,
-    "timeDay": 475,
-    "timeWeek": 817,
-    "timeMonth": 781,
+    "timeDay": 815,
+    "timeWeek": 796,
+    "timeMonth": 784,
     "timeYear": 791,
     "dailyMinutesDown": {
       "2024-04-22": 17
@@ -60,7 +60,7 @@
   {
     "name": "Proxmox Host",
     "url": "https://$HOST_PVE:8006",
-    "icon": "https://icons.duckduckgo.com/ip3/.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/$host_pve.ico",
     "slug": "proxmox-host",
     "status": "up",
     "uptime": "100.00%",
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 784,
-    "timeWeek": 680,
-    "timeMonth": 586,
-    "timeYear": 593,
+    "time": 592,
+    "timeDay": 528,
+    "timeWeek": 688,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   }
 ]
