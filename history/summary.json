@@ -4,9 +4,9 @@
     "url": "https://git.r3ktm8.de",
     "icon": "https://icons.duckduckgo.com/ip3/git.r3ktm8.de.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1138,
     "timeYear": 1111,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-05-23": 19
     }
   },
