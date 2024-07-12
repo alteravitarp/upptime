@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.r3ktm8.de.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1105,
-    "timeDay": 761,
-    "timeWeek": 1044,
-    "timeMonth": 1143,
-    "timeYear": 1105,
+    "uptimeYear": "99.99%",
+    "time": 1103,
+    "timeDay": 847,
+    "timeWeek": 923,
+    "timeMonth": 1144,
+    "timeYear": 1103,
     "dailyMinutesDown": {
       "2024-05-23": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 794,
-    "timeWeek": 1058,
-    "timeMonth": 983,
-    "timeYear": 1042,
+    "time": 1040,
+    "timeDay": 925,
+    "timeWeek": 1027,
+    "timeMonth": 986,
+    "timeYear": 1040,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 795,
+    "time": 794,
     "timeDay": 748,
-    "timeWeek": 884,
-    "timeMonth": 781,
-    "timeYear": 795,
+    "timeWeek": 817,
+    "timeMonth": 785,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2024-04-22": 17
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
-    "timeDay": 512,
-    "timeWeek": 653,
-    "timeMonth": 590,
+    "timeDay": 537,
+    "timeWeek": 649,
+    "timeMonth": 598,
     "timeYear": 597,
     "dailyMinutesDown": {}
   }
