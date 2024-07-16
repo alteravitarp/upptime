@@ -24,7 +24,7 @@
     "url": "https://txadmin.alteravitarp.de",
     "icon": "https://icons.duckduckgo.com/ip3/txadmin.alteravitarp.de.ico",
     "slug": "tx-admin-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1108,
     "timeMonth": 972,
     "timeYear": 1040,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-16": 0
+    }
   },
   {
     "name": "CopNET",
