@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1100,
-    "timeDay": 773,
-    "timeWeek": 980,
-    "timeMonth": 1152,
-    "timeYear": 1100,
+    "time": 1133,
+    "timeDay": 4389,
+    "timeWeek": 1499,
+    "timeMonth": 1265,
+    "timeYear": 1133,
     "dailyMinutesDown": {
       "2024-05-23": 19
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/txadmin.alteravitarp.de.ico",
     "slug": "tx-admin-live",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "31.53%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "99.25%",
+    "uptime": "98.18%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "75.94%",
+    "uptimeMonth": "94.46%",
+    "uptimeYear": "98.18%",
     "time": 1040,
     "timeDay": 0,
-    "timeWeek": 974,
-    "timeMonth": 978,
+    "timeWeek": 1010,
+    "timeMonth": 985,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2024-07-17": 59,
+      "2024-07-18": 58,
+      "2024-07-17": 1440,
       "2024-07-16": 927
     }
   },
@@ -51,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 803,
-    "timeDay": 1117,
-    "timeWeek": 902,
-    "timeMonth": 829,
-    "timeYear": 803,
+    "time": 804,
+    "timeDay": 943,
+    "timeWeek": 929,
+    "timeMonth": 834,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2024-04-22": 17
     }
@@ -71,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 767,
-    "timeWeek": 732,
-    "timeMonth": 646,
-    "timeYear": 608,
+    "time": 607,
+    "timeDay": 453,
+    "timeWeek": 724,
+    "timeMonth": 644,
+    "timeYear": 607,
     "dailyMinutesDown": {}
   }
 ]
