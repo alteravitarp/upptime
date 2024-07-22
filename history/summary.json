@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/txadmin.alteravitarp.de.ico",
     "slug": "tx-admin-live",
     "status": "down",
-    "uptime": "94.12%",
+    "uptime": "93.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.77%",
-    "uptimeMonth": "81.31%",
-    "uptimeYear": "94.12%",
+    "uptimeWeek": "14.26%",
+    "uptimeMonth": "80.27%",
+    "uptimeYear": "93.81%",
     "time": 1040,
     "timeDay": 0,
     "timeWeek": 746,
     "timeMonth": 1009,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2024-07-22": 61,
+      "2024-07-22": 516,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -50,10 +50,10 @@
     "url": "https://gov.alteravitarp.de",
     "icon": "https://icons.duckduckgo.com/ip3/gov.alteravitarp.de.ico",
     "slug": "cop-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 808,
@@ -62,6 +62,7 @@
     "timeMonth": 854,
     "timeYear": 808,
     "dailyMinutesDown": {
+      "2024-07-22": 1,
       "2024-04-22": 17
     }
   },
@@ -70,7 +71,7 @@
     "url": "https://$HOST_PVE:8006",
     "icon": "https://icons.duckduckgo.com/ip3/$host_pve.ico",
     "slug": "proxmox-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -81,6 +82,8 @@
     "timeWeek": 681,
     "timeMonth": 677,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-22": 0
+    }
   }
 ]
