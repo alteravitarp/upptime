@@ -6,7 +6,7 @@ sites:
   - name: Gitlab
     url: https://git.r3ktm8.de
   - name: TxAdmin (Live)
-    url: https://txadmin.alteravitarp.de
+    url: https://txadmin.avoro.alteravitarp.de
   - name: CopNET
     url: https://gov.alteravitarp.de
   - name: Proxmox Host
